@@ -237,3 +237,14 @@ i.menu-mobile {
     border-radius: 50%;
 }
 
+.carousel-control-prev {
+    margin-left: -70px;
+}
+
+.carousel-control-next {
+    margin-right: -70px;
+}
+
+.carousel-indicators {
+    margin-bottom: -35px;
+}
